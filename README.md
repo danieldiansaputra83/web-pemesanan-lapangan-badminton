@@ -27,5 +27,7 @@ Proyek ini dikembangkan menggunakan pola **Model-View-Controller (MVC)** untuk m
 
 ## 📸 Tampilan Aplikasi
 
-![Dashboard BUD.ME](assets/dashboard-mockup.png)
-![Halaman Booking](assets/booking-page.png)
+![Dashboard BUD.ME]!<img width="1919" height="1039" alt="Screenshot 2026-04-22 221557" src="https://github.com/user-attachments/assets/2d1430c1-7352-4e3b-bff1-981d395d1d8a" />
+
+![Halaman Booking]<img width="1919" height="1001" alt="Screenshot 2026-04-22 221528" src="https://github.com/user-attachments/assets/881e6dd9-a558-4967-9463-cac359e92458" />
+
