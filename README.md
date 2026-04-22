@@ -31,3 +31,5 @@ Proyek ini dikembangkan menggunakan pola **Model-View-Controller (MVC)** untuk m
 
 ![Halaman Booking]<img width="1919" height="1001" alt="Screenshot 2026-04-22 221528" src="https://github.com/user-attachments/assets/881e6dd9-a558-4967-9463-cac359e92458" />
 
+## 📅 Timeline
+February 2026 – March 2026
