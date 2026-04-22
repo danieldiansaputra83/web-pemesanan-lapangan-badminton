@@ -14,7 +14,7 @@ BUD.ME adalah aplikasi web responsif yang dirancang untuk mendigitalisasi proses
 
 - **Backend:** PHP Native (dengan prinsip OOP & arsitektur MVC)
 - **Database:** MySQL
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend:** HTML5, CSS, JavaScript
 - **Keamanan:** Password Hashing, Prepared Statements (SQL Injection Prevention)
 
 ## 🏗️ Arsitektur Proyek
